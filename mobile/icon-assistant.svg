@@ -1,0 +1,60 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="34.153770" y1="46.205971" x2="34.153770" y2="11.538574" id="paint_linear_305_10621_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#67B5FF"/>
+			<stop offset="1.000000" stop-color="#165DFF"/>
+		</linearGradient>
+		<linearGradient x1="47.795326" y1="13.641640" x2="13.127930" y2="13.641640" id="paint_linear_305_10622_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFB2E1" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#67B5FF" stop-opacity="0.600000"/>
+		</linearGradient>
+		<linearGradient x1="14.769831" y1="0.000391" x2="14.769831" y2="31.385010" id="paint_linear_305_10623_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFB2E1" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#67B5FF" stop-opacity="0.600000"/>
+		</linearGradient>
+		<linearGradient x1="0.204884" y1="33.026310" x2="31.720703" y2="33.026310" id="paint_linear_305_10624_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFB2E1" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#67B5FF" stop-opacity="0.600000"/>
+		</linearGradient>
+		<linearGradient x1="33.039738" y1="47.861279" x2="33.039738" y2="16.345459" id="paint_linear_305_10625_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFB2E1" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#67B5FF" stop-opacity="0.600000"/>
+		</linearGradient>
+		<linearGradient x1="27.510374" y1="13.845947" x2="27.510374" y2="31.869539" id="paint_linear_305_10630_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#DEEFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF"/>
+		</linearGradient>
+	</defs>
+	<mask id="mask305_10620" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="48.000000" height="48.000000">
+		<rect id="蒙版" rx="12.000000" width="48.000000" height="48.000000" fill="#165DFF" fill-opacity="1.000000"/>
+		<rect id="蒙版" x="0.250000" y="0.250000" rx="12.000000" width="47.500000" height="47.500000" stroke="#979797" stroke-opacity="0" stroke-width="0.500000"/>
+	</mask>
+	<rect id="蒙版" rx="12.000000" width="48.000000" height="48.000000" fill="#165DFF" fill-opacity="1.000000"/>
+	<rect id="蒙版" x="0.250000" y="0.250000" rx="12.000000" width="47.500000" height="47.500000" stroke="#979797" stroke-opacity="0" stroke-width="0.500000"/>
+	<g mask="url(#mask305_10620)">
+		<path id="椭圆形" d="M46.58 23.77L47.74 23.77L13.17 9.45L13.99 10.27L13.99 10.3C13.51 10.79 12.74 10.79 12.25 10.3C11.77 9.81 11.77 9.05 12.25 8.56L12.28 8.56L13.14 9.42C16.81 5.75 21.88 3.48 27.48 3.48C38.69 3.48 47.78 12.56 47.79 23.77L49 23.77L49.02 23.79C49.02 24.48 48.48 25.02 47.79 25.02C47.1 25.02 46.56 24.48 46.56 23.79L46.58 23.77Z" fill="#D8D8D8" fill-opacity="0" fill-rule="evenodd"/>
+		<path id="椭圆形" d="M47.79 23.79C47.79 12.57 38.7 3.48 27.48 3.48C21.87 3.48 16.8 5.76 13.12 9.43" stroke="url(#paint_linear_305_10622_0)" stroke-opacity="1.000000" stroke-width="2.461539" stroke-linecap="round"/>
+	</g>
+	<g mask="url(#mask305_10620)">
+		<path id="椭圆形" d="M23.98 1.21L23.98 0.04L10.96 31.33L11.78 30.51L11.81 30.51C12.3 30.99 12.3 31.76 11.81 32.25C11.33 32.74 10.56 32.74 10.07 32.25L10.07 32.22L10.93 31.37C7.59 28.04 5.53 23.45 5.53 18.38C5.53 8.23 13.79 0.01 23.98 0L23.98 -1.22L24 -1.24C24.68 -1.24 25.23 -0.69 25.23 0C25.23 0.68 24.68 1.23 24 1.23L23.98 1.21Z" fill="#D8D8D8" fill-opacity="0" fill-rule="evenodd"/>
+		<path id="椭圆形" d="M24 0C13.8 0 5.53 8.23 5.53 18.38C5.53 23.46 7.6 28.05 10.94 31.38" stroke="url(#paint_linear_305_10623_0)" stroke-opacity="1.000000" stroke-width="2.461539" stroke-linecap="round"/>
+	</g>
+	<g mask="url(#mask305_10620)">
+		<path id="椭圆形" d="M1.41 23.81L0.25 23.81L31.67 36.82L30.85 36L30.85 35.97C31.33 35.49 32.1 35.49 32.59 35.97C33.07 36.46 33.07 37.23 32.59 37.72L32.56 37.72L31.7 36.86C28.36 40.19 23.75 42.25 18.66 42.25C8.47 42.25 0.21 34 0.2 23.81L-1.01 23.81L-1.03 23.79C-1.03 23.1 -0.49 22.56 0.2 22.56C0.89 22.56 1.43 23.1 1.43 23.79L1.41 23.81Z" fill="#D8D8D8" fill-opacity="0" fill-rule="evenodd"/>
+		<path id="椭圆形" d="M0.2 23.79C0.2 33.99 8.47 42.25 18.66 42.25C23.76 42.25 28.37 40.19 31.72 36.84" stroke="url(#paint_linear_305_10624_0)" stroke-opacity="1.000000" stroke-width="2.461539" stroke-linecap="round"/>
+	</g>
+	<g mask="url(#mask305_10620)">
+		<path id="椭圆形" d="M23.82 46.65L23.82 47.81L36.84 16.39L36.02 17.21L35.99 17.21C35.5 16.72 35.5 15.96 35.99 15.47C36.48 14.98 37.24 14.98 37.73 15.47L37.73 15.5L36.87 16.35C40.21 19.69 42.27 24.3 42.27 29.39C42.27 39.58 34.01 47.85 23.82 47.86L23.82 49.07L23.8 49.09C23.12 49.09 22.57 48.55 22.57 47.86C22.57 47.17 23.12 46.63 23.8 46.63L23.82 46.65Z" fill="#D8D8D8" fill-opacity="0" fill-rule="evenodd"/>
+		<path id="椭圆形" d="M23.8 47.86C34 47.86 42.27 39.59 42.27 29.39C42.27 24.3 40.2 19.68 36.86 16.34" stroke="url(#paint_linear_305_10625_0)" stroke-opacity="1.000000" stroke-width="2.461539" stroke-linecap="round"/>
+	</g>
+	<mask id="mask_305_10629" fill="white">
+		<path id="形状结合" d="M17.9287 13.8461L20.9863 13.8461C21.7031 13.8461 22.1875 14.5769 21.9092 15.237L18.3086 23.7598L19.2236 23.7598C20.2188 23.7598 21.0264 24.5667 21.0264 25.5621C21.0264 26.5576 20.2188 27.3645 19.2236 27.3645L16.7861 27.3645L15.1416 31.258C14.9844 31.6287 14.6211 31.8697 14.2188 31.8697L11.8242 31.8697C11.1084 31.8697 10.623 31.1389 10.9023 30.4787L17.9287 13.8461Z" clip-rule="evenodd" fill="" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</mask>
+	<path id="形状结合" d="M17.9287 13.8461L20.9863 13.8461C21.7031 13.8461 22.1875 14.5769 21.9092 15.237L18.3086 23.7598L19.2236 23.7598C20.2188 23.7598 21.0264 24.5667 21.0264 25.5621C21.0264 26.5576 20.2188 27.3645 19.2236 27.3645L16.7861 27.3645L15.1416 31.258C14.9844 31.6287 14.6211 31.8697 14.2188 31.8697L11.8242 31.8697C11.1084 31.8697 10.623 31.1389 10.9023 30.4787L17.9287 13.8461Z" clip-rule="evenodd" fill="#BDCFFF" fill-opacity="1.000000" fill-rule="evenodd" mask="url(#mask_305_10629)"/>
+	<path id="形状结合" d="" clip-rule="evenodd" fill="#979797" fill-opacity="0.000000" fill-rule="evenodd"/>
+	<path id="路径 16备份" d="M17.92 13.84L21.14 13.84C21.96 13.84 22.69 14.34 23 15.09L28.33 28.24C28.48 28.61 28.85 28.86 29.26 28.86L30.14 28.86C30.85 28.86 31.34 28.14 31.07 27.48L25.54 13.84L28.15 13.84C28.95 13.84 29.68 14.32 29.99 15.06L36.5 30.47C36.78 31.13 36.29 31.86 35.58 31.86L26.86 31.86C26.06 31.86 25.33 31.38 25.02 30.64L17.92 13.84Z" fill="url(#paint_linear_305_10630_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="路径 16备份" d="" fill="#979797" fill-opacity="0" fill-rule="evenodd"/>
+</svg>
